@@ -1,0 +1,37 @@
+@media (min-width: 576px) { 
+    .row-c {
+        margin: 0 auto;
+        width: 540px;
+
+    }
+}
+@media (min-width: 768px) { 
+
+    .row-c {
+        margin: 0 auto;
+        width: 720px;
+
+    }
+
+}
+@media (min-width: 992px) {
+    .row-c {
+        margin: 0 auto;
+        width: 960px;
+
+    }
+ }
+@media (min-width: 1200px) {
+    .row-c {
+        margin: 0 auto;
+        width: 1140px;
+
+    }
+ }
+@media (min-width: 1400px) {
+    .row-c {
+        margin: 0 auto;
+        width: 1320px;
+
+    }
+ }
